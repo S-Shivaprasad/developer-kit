@@ -1,16 +1,103 @@
-# React + Vite
+# 🛠️ DeveloperKit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Free Online Developer Tools — Simple, Fast & Reliable
 
-Currently, two official plugins are available:
+DeveloperKit is a collection of useful online tools designed to make everyday development tasks easier. Format JSON, validate data, encode and decode Base64, and generate unique UUIDs — all in one place.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 **Live Demo:** Coming Soon
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **JSON Formatter** — Format and beautify JSON data for better readability.
+- **JSON Validator** — Validate JSON syntax and identify errors.
+- **Base64 Encoder/Decoder** — Encode text into Base64 and decode Base64 strings.
+- **UUID Generator** — Generate unique UUIDs instantly.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML5
+
+## 📸 Project Preview
+
+*Screenshots coming soon.*
+
+## 💻 Run Locally
+
+Follow these steps to run DeveloperKit on your computer.
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/S-Shivaprasad/developer-kit.git
+```
+
+**2. Navigate to the project folder**
+
+```bash
+cd developer-kit
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## 📁 Project Structure
+
+```text
+developer-kit/
+├── public/
+│   └── developerkit-logo.png
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   └── ...
+├── index.html
+├── package.json
+└── vite.config.js
+```
+
+## 🎯 Project Goals
+
+- Build useful tools for developers.
+- Create a clean and responsive user interface.
+- Keep tools fast and easy to use.
+- Make everyday development tasks simpler.
+
+## 🛣️ Future Improvements
+
+- Add more developer utilities.
+- Improve accessibility and mobile experience.
+- Add SEO optimization.
+- Deploy and continuously improve the application.
+
+## 🤝 Contributing
+
+Suggestions and contributions are welcome!
+
+Feel free to open an issue or submit a pull request.
+
+## 📄 License
+
+This project is open source. A license will be added separately.
+
+---
+
+**Built with ❤️ for developers.**
+
+⭐ If you find DeveloperKit useful, consider giving this repository a star!
