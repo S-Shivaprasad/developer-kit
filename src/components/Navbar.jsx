@@ -4,6 +4,11 @@ function Navbar() {
   return (
     <nav className="border-b border-slate-800 px-6 py-4">
       <div className="mx-auto flex max-w-6xl items-center justify-between">
+        <img
+          src="developerkit-logo.png"
+          alt="DeveloperKit"
+          className="h-10 w-auto object-contain"
+        />
         <Link
           to="/"
           className="text-xl font-bold tracking-tight transition hover:text-slate-300"
